@@ -1,7 +1,7 @@
 ![FELIPE REIS CABRAL](https://raw.githubusercontent.com/FelipeReisCabral/FelipeReisCabral/main/Estudante%20de%20Analise%20e%20Desenvolvimento%20de%20Sistemas.png)
 
 <center>
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
             <a href="https://www.linkedin.com/in/felipe-reis-cabral/" target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
             <a href="https://www.instagram.com/felipereis_cabral/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
             <a href="mailto:felipereiscabral@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                 
@@ -14,11 +14,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, estou buscando aprimora
 
 ##
 
-<center><div>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeReisCabral&show_icons=true&theme=tokyonight" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeReisCabral&layout=compact&theme=tokyonight"/>
+<div align="center">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=FelipeReisCabral&show_icons=true&theme=tokyonight" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeReisCabral&layout=compact&theme=tokyonight"/>
 </div>
-</center>
+
 
 ##
 
