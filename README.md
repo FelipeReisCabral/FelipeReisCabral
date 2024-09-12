@@ -15,8 +15,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, estou buscando aprimora
 ##
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=FelipeReisCabral&show_icons=true&theme=tokyonight" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeReisCabral&layout=compact&theme=tokyonight"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=FelipeReisCabral&show_icons=true&theme=tokyonight" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeReisCabral&layout=compact&theme=tokyonight"/>
 </div>
 
 
